@@ -1,0 +1,15 @@
+.one{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
+.box{
+    width: 100%;
+    text-align: center;
+}
+.wegome{
+    font-size: 10px;
+    background-color: #9b9b9b;
+
+}

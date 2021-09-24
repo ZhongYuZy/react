@@ -1,0 +1,78 @@
+.one{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+}
+.box{
+    width: 100%;
+    text-align: center;
+}
+.wegome{
+    font-size: 17px;
+    color: #9b9b9b;
+
+}
+.ipt{
+    margin-top: 20px;
+    margin-left: 800px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 300px;
+    margin-top: 20px;
+}
+.to{
+    height: 100vh;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.portrait{
+    display: flex;
+}
+.weather{
+    margin-top: 6px;
+}
+.icon{
+    margin-right: 10px;
+    margin-left: 15px;
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #cccccc;
+    color: #fff;
+}
+.menu{
+    position: absolute;
+    top: -20px;
+}
+.red{
+    height: 200px;
+    width: 500px;
+    margin: 0 15px;
+    background-color: red;
+}
+.green{
+    height: 200px;
+    width: 500px;
+    margin: 0 15px;
+    background-color: green;
+}
+.black{
+    height: 200px;
+    width: 500px;
+    margin: 0 15px;
+    background-color: black;
+}
+.colour{
+    display: flex;
+}

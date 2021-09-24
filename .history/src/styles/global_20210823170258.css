@@ -1,0 +1,9 @@
+.one{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+.box{
+    width: 100%;
+    text-align: center;
+}
